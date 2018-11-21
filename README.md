@@ -15,3 +15,6 @@ Changelog:
         -pushed first version of project which uses html only
         -rename html only file
         -removed unused image
+        -added paragraph about tech
+        -made movie images link to imdb Pages
+        -renamed files to specify which file to open as web page
