@@ -11,5 +11,7 @@ Other tech used:
 
 Changelog:
     11/21/2018
-        initial commit
-        first commit, pushed first version of project which uses html only
+        -initial commit
+        -pushed first version of project which uses html only
+        -rename html only file
+        -removed unused image
