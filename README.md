@@ -5,7 +5,7 @@ Main tech used:
     HTML, CSS
 
 Live link:
-
+https://elizabeth505.github.io/tech_n_scifi_movies/
 Other tech used:
     github, Atom, internet
 
